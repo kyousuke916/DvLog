@@ -8,7 +8,7 @@ namespace com.kyousuke916.test
     {
         void Awake()
         {
-            Log("Hello v1.0.0");
+            Log("Hello v1.0.1");
         }
 
         public void Log(string msg)
